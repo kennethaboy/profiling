@@ -18,7 +18,7 @@
 				</td>				
 			</tr>
 			<tr>
-				<td>I. Personal Information</td>
+				<td>I. PERSONAL INFORMATION</td>
 			</tr>			
 		</tbody>		
 	</table>
@@ -45,8 +45,7 @@
   <div class = "col-xs-2 col-sm-2 col-md-2 col-lg-2 bord">167 cm.</div>
   <div class = "col-xs-2 col-sm-2 col-md-2 col-lg-2 bord"><span>Weight</span></div>
   <div class = "col-xs-2 col-sm-2 col-md-2 col-lg-2 bord">50 kilo's</div>
-  <div class = "col-lg-12 col-md-12 col-xs-12 col-sm-12  bord" disabled>Complete Home Address</div>
-  
+  <div class = "col-lg-12 col-md-12 col-xs-12 col-sm-12  bord" disabled>Complete Home Address</div>  
   <div class = "col-lg-4 col-md-4 col-xs-4 col-sm-4 bord">Street : </div>
   <div class = "col-lg-8 col-md-8 col-xs-8 col-sm-8 bord"> Lot 3 Rizal Street </div>
   <div class = "col-lg-4 col-md-4 col-xs-4 col-sm-4 bord">Barangay : </div>
@@ -57,31 +56,125 @@
   <div class = "col-lg-4 col-md-4 col-xs-4 col-sm-4 bord">Negros Occidental</div>
   <div class = "col-lg-2 col-md-2 col-xs-2 col-sm-2 bord">Zip Code </div>
   <div class = "col-lg-2 col-md-2 col-xs-2 col-sm-2 bord"> 6116 </div>
-   <div class = "col-xs-2 col-sm-2 col-md-2 col-lg-2 bord"><span>Blood Type</span></div>
+  <div class = "col-xs-2 col-sm-2 col-md-2 col-lg-2 bord"><span>Blood Type</span></div>
   <div class = "col-xs-2 col-sm-2 col-md-2 col-lg-2 bord">A+</div>
-   <div class = "col-xs-4 col-sm-4 col-md-4 col-lg-4 bord"><span>GSIS No.</span></div>
-	<div class = "col-xs-4 col-sm-4 col-md-4 col-lg-4 bord">9841-1241-1212</div>
-    <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>PAG-IBIG ID NO.</span></div>
+  <div class = "col-xs-4 col-sm-4 col-md-4 col-lg-4 bord"><span>GSIS No.</span></div>
+  <div class = "col-xs-4 col-sm-4 col-md-4 col-lg-4 bord">9841-1241-1212</div>
+  <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>PAG-IBIG ID NO.</span></div>
   <div class = "col-xs-3 col-sm-63col-md-3 col-lg-3 bord">09841-1241-1212</div>
-     <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>PhilHealth No.</span></div>
+  <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>PhilHealth No.</span></div>
   <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord">41-1241-1212</div>
-   <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>SSS No.</span></div>
+  <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>SSS No.</span></div>
   <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord">41-1241-1212</div>
-   <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>TIN No.</span></div>
+  <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>TIN No.</span></div>
   <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord">0981-1241-1212</div>
-   <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>Agency Employee No.</span></div>
+  <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>Agency Employee No.</span></div>
   <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord">09-1241-1212</div>
-    <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>Email Address</span></div>
+  <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>Email Address</span></div>
   <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord">ltubera@gmail.com</div>
-    <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>Phone Number</span></div>
+  <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>Phone Number</span></div>
   <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord">&nbsp;</div>
-   <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>Mobile Number</span></div>
+  <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord"><span>Mobile Number</span></div>
   <div class = "col-xs-3 col-sm-3 col-md-3 col-lg-3 bord">&nbsp;</div>
-  
-  
+  <div class = "col-lg-12 col-md-12 col-xs-12 col-sm-12 bord" style = "padding-top:5px; padding-bottom:5px;">II. FAMILY BACKGROUND</div>
+  <div class  = "col-xs-6 col-sm-6 col-lg-6 col-md-6">
+	<div class = "row">
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 ">Spouse's Surname</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Alibado</div>
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 ">FIRST NAME</div>	
+		<div class = "col-md-4 col-lg-4 col-xs-4 col-sm-4 bord">Josephine</div>	
+		<div class = "col-md-2 col-lg-2 col-xs-2 col-sm-2 bord">Jr.</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 ">MIDDLENAME</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Luzañes</div>
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Occupation</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Farmer</div>		
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Employer/Business</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Garin Farm</div>
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Business Address</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Lot 3 Divino Farm</div>
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Telephone No.</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">434-6147</div>
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 ">Fathers Surname</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Montero</div>
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 ">FIRST NAME</div>	
+		<div class = "col-md-4 col-lg-4 col-xs-4 col-sm-4 bord">Jake</div>	
+		<div class = "col-md-2 col-lg-2 col-xs-2 col-sm-2 bord">Jr.</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 ">MIDDLENAME</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Alibado</div>
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6" style = "border-top:1px solid;">Mothers maiden name</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Montero</div>
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 ">FIRST NAME</div>	
+		<div class = "col-md-4 col-lg-4 col-xs-4 col-sm-4 bord">Jake</div>	
+		<div class = "col-md-2 col-lg-2 col-xs-2 col-sm-2 bord">Jr.</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 ">MIDDLENAME</div>	
+		<div class = "col-md-6 col-lg-6 col-xs-6 col-sm-6 bord">Alibado</div>
+  </div>	
+</div>
+<div class  = "col-xs-6 col-sm-6 col-lg-6 col-md-6">  
+	<div class = "row">
+		 <div class  = "col-xs-7 col-sm-7 col-lg-7 col-md-7 bord"><span style = "font-size:10px;">Name of Children</span><span style = "font-size:8px;"> (Write full name)</span></div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">Date of Birth</div>
+		 <div class = "col-md-7 col-lg-7 col-xs-7 col-sm-7 bord">&nbsp;</div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">&nbsp;</div>
+		 <div class = "col-md-7 col-lg-7 col-xs-7 col-sm-7 bord">&nbsp;</div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">&nbsp;</div>
+		 <div class = "col-md-7 col-lg-7 col-xs-7 col-sm-7 bord">&nbsp;</div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">&nbsp;</div>
+		 <div class = "col-md-7 col-lg-7 col-xs-7 col-sm-7 bord">&nbsp;</div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">&nbsp;</div>
+		 <div class = "col-md-7 col-lg-7 col-xs-7 col-sm-7 bord">&nbsp;</div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">&nbsp;</div>
+		 <div class = "col-md-7 col-lg-7 col-xs-7 col-sm-7 bord">&nbsp;</div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">&nbsp;</div>
+		 <div class = "col-md-7 col-lg-7 col-xs-7 col-sm-7 bord">&nbsp;</div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">&nbsp;</div>
+		 <div class = "col-md-7 col-lg-7 col-xs-7 col-sm-7 bord">&nbsp;</div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">&nbsp;</div>
+		 <div class = "col-md-7 col-lg-7 col-xs-7 col-sm-7 bord">&nbsp;</div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">&nbsp;</div>
+		 <div class = "col-md-7 col-lg-7 col-xs-7 col-sm-7 bord">&nbsp;</div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">&nbsp;</div>
+		  <div class = "col-md-7 col-lg-7 col-xs-7 col-sm-7 bord">&nbsp;</div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">&nbsp;</div>
+		 <div class = "col-md-7 col-lg-7 col-xs-7 col-sm-7 bord">&nbsp;</div>
+		 <div class = "col-md-5 col-lg-5 col-xs-5 col-sm-5 bord">&nbsp;</div>
+	</div>
+</div>
+<div class = "col-lg-12 col-md-12 col-xs-12 col-sm-12 bord" style = "padding-top:5px; padding-bottom:5px;">
+	III. EDUCATIONAL BACKGROUND
+</div>
+	<div class = "col-lg-2 col-md-2 col-sm-2 col-xs-2">
+		<div class = "row">
+			<div class = "col-lg-12 bord" style = "font-size:10px; text-align:center; padding:10px 0px;">LEVEL</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Elemetary</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Secondary</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Vocational</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px; ">College</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Graduate Studies</div>
+		</div>
+	</div>
+	<div class = "col-lg-3 col-md-3 col-sm-3 col-xs-3">
+		<div class = "row">
+			<div class = "col-lg-12 bord" style = "font-size:10px; text-align:center; padding:10px 0px;">School Name</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Gov E. Gaston Memorial Elemetary School</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">DMLMHS</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">TESDA TALISAY</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px; ">CHMSC Talisay</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Northern Negros State College</div>
+		</div>
+	</div>
+	<div class = "col-lg-2 col-md-2 col-sm-2 col-xs-2">
+		<div class = "row">
+			<div class = "col-lg-12 bord" style = "font-size:10px; text-align:center; padding:10px 0px;">Degree</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Graduated</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Graduated</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Graduated </div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px; ">Graduated</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Graduated</div>
+		</div>
+	</div>
 </div>
 
-</div>
 
 </body>
 </html>
