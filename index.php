@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="css/custom.css">
 	<link rel="stylesheet" href="css/style.css">
 <body>
-	<table class = "table table-bordered table-responsive">
+	<table class = "table table-bordered table-responsive text-table">
 		<tbody>
 			<tr style = "padding:0px !important;">
 				<td>
@@ -163,7 +163,7 @@
 			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Northern Negros State College</div>
 		</div>
 	</div>
-	<div class = "col-lg-2 col-md-2 col-sm-2 col-xs-2">
+	<div class = "col-lg-1 col-md-1 col-sm-1 col-xs-1">
 		<div class = "row">
 			<div class = "col-lg-12 bord" style = "font-size:10px; text-align:center; padding:10px 0px;">Degree</div>
 			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Graduated</div>
@@ -171,6 +171,36 @@
 			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Graduated </div>
 			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px; ">Graduated</div>
 			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Graduated</div>
+		</div>
+	</div>
+	<div class = "col-lg-2 col-md-2 col-sm-2 col-xs-2">
+		<div class = "row">
+			<div class = "col-lg-12 bord" style = "font-size:10px; text-align:center; padding:10px 0px;">SY Attendance</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">2001-2007</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">2007-2011</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">2012 </div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px; ">2012-2016</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">2017</div>
+		</div>
+	</div>
+	<div class = "col-lg-2 col-md-2 col-sm-2 col-xs-2">
+		<div class = "row">
+			<div class = "col-lg-12 bord" style = "font-size:10px; text-align:center; padding:10px 0px;">Unit's Earned </div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">&nbsp;</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">&nbsp;</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">&nbsp; </div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px; ">&nbsp;</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">&nbsp;</div>
+		</div>
+	</div>
+	<div class = "col-lg-2 col-md-2 col-sm-2 col-xs-2">
+		<div class = "row">
+			<div class = "col-lg-12 bord" style = "font-size:10px; text-align:center; padding:10px 0px;">Scholarship</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">&nbsp;</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">&nbsp;</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">&nbsp; </div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px; ">&nbsp;</div>
+			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">&nbsp;</div>
 		</div>
 	</div>
 </div>

@@ -17,3 +17,12 @@ p.tiny-text {
     height: 62px;
     padding-top: 8px;
 }
+.text-table{
+	margin-bottom:0px;
+}
+ .table-bordered>tbody>tr>td
+{
+	 border-top: 2px solid #000 !important;
+	 border-left: 2px solid #000 !important;
+	 border-right: 2px solid #000 !important;
+}
