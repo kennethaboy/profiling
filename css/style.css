@@ -1,0 +1,19 @@
+p.tiny-text {
+    font-size: 8px;
+    font-weight: bolder;
+    line-height: 2px;
+}
+.csid{
+	position: relative;
+    bottom: 10px; 
+    left: -60px;
+    border: 1px solid;
+	padding: 2px;
+}
+.bord{
+	border:1px solid;
+}
+.col-lg-12.col-md-12.col-xs-12.col-sm-12.address {
+    height: 62px;
+    padding-top: 8px;
+}
