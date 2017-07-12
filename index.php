@@ -156,7 +156,7 @@
 	<div class = "col-lg-3 col-md-3 col-sm-3 col-xs-3">
 		<div class = "row">
 			<div class = "col-lg-12 bord" style = "font-size:10px; text-align:center; padding:10px 0px;">School Name</div>
-			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">Gov E. Gaston Memorial Elemetary School</div>
+			<div class = "col-lg-12 bord" style ="font-size:8px; text-align:center; padding:10px 0px;">Gov E. Gaston Memorial Elemetary School</div>
 			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">DMLMHS</div>
 			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px;">TESDA TALISAY</div>
 			<div class = "col-lg-12 bord" style ="font-size:9px; text-align:center; padding:10px 0px; ">CHMSC Talisay</div>
